@@ -1,0 +1,9 @@
+
+{
+    "name": "blueoceanideas/acf-frontend-editor",
+    "description": "Edit ACF Fields on the front-end.",
+	  "type": "wordpress-plugin",
+    "require": {
+  		"composer/installers": "^1.0"
+    }
+}
