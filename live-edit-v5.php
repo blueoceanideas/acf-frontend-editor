@@ -465,7 +465,8 @@ class live_edit {
 	
 }
 
-new live_edit();
+global $liveEditClass;
+$liveEditClass = new live_edit();
 
 
 /*
